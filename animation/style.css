@@ -1,0 +1,19 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition-duration: 1s;
+    /* transition-property: background-color; */
+    /* transition-timing-function: ease-out; */
+    /* transition-delay: 1s; */
+
+}
+
+.box:hover{
+    /* background-color: cornflowerblue;
+    width: 200px; */
+    /* transform: translate(520px,520px); */
+    /* transform: rotate(50deg);*/
+    /* transform: skew(20deg); */
+    /* transform: matrix(2,0,0,1,0,0); */
+}
